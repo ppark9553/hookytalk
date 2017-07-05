@@ -1,0 +1,35 @@
+### HookyTalk Naming Conventions:
+
+
+
+- Normally in Java/Android development, methods/functions follow the "lowerCamelCase()" convention, and variables, also, the "lowerCamelCase" convention. -
+
+      
+
+	*RULES*
+
+1. File (module) names should be one word and lowercased: those that need separation will be done so with a '-'.
+
+ex) "file.txt", "file-with-bar.py",
+
+
+1.5. Within the app directory, res files should be in "lowercas_underscores.xml" format, and java files should be in "UpperCamelCase.java" format,
+
+
+2. Class names should be upper camel case.
+
+ex) "ClassName",
+
+
+3. Functions or variables only used within a class should begin with '_' (underscore).
+
+ex) "_functionWithinClass()", "_variablesWithinClass",
+
+
+4. Function names should be written in the "lowerCamelCase()" format,
+
+
+5. Variables should be lower camel case as follows: "variableLowerCase", where the first character is lowercase,
+
+
+6. Constant variables should be capitalized with underscores: "CONSTANT_VARIABLE".

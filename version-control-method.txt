@@ -1,0 +1,10 @@
+### HookyTalk Version Control Method:
+
+
+Before you begin your project, always pull/fetch "devs" and "docs" directories and the files within them from our github repository.
+
+
+Also, after making changes to the files in "devs" or "docs", remember to pull changes again (because there may be some changes to the files while you work on the files) then push changes to github repository right away.
+
+
+(Don't push all code changes when development still needs time, but our development and documentation records need to be seamless, so REMEMBER to pull and push from those two directories ALWAYS)

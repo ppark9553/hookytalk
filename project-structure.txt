@@ -1,0 +1,16 @@
+### HookyTalk Project Structure:
+
+
+HookyTalk application code:  hookytalk
+
+Development requirements and tracking:  devs
+
+Project documentation:  docs
+
+
+*Backend (Firebase):
+
+Google account: hookytalkapp@gmail.com
+Password: iwannahooky
+
+Project name: HookyTalk

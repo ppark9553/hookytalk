@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "841208638096",
+    "firebase_url": "https://hookytalk-dcf55.firebaseio.com",
+    "project_id": "hookytalk-dcf55",
+    "storage_bucket": "hookytalk-dcf55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841208638096:android:fccf0a929807d29b",
+        "android_client_info": {
+          "package_name": "com.heepeeham.hookytalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841208638096-c1qrnd459t2ch0ts8hascio99qa6gjr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heepeeham.hookytalk",
+            "certificate_hash": "628ff9d99b9f2048f2e1ad6257039a3210009849"
+          }
+        },
+        {
+          "client_id": "841208638096-a5ue9ha5isc4nim17vjvprguph48pmuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUEsH6rYJ5K87JoNzdZvSVhM_BTp-SW_s"
+        },
+        {
+          "current_key": "AIzaSyAMNt1Uf9mYZPjHgVWSaRO3HDTieoE_eT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841208638096-a5ue9ha5isc4nim17vjvprguph48pmuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
